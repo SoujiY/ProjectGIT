@@ -1,3 +1,3 @@
 # ProjectGIT
-This Project repository has JS 
+This is Project repository. 
 JS has two files 
